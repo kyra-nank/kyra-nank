@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kyra-nank
+- 👋 Hello, nice to meet you!
 - 👀 I’m interested in blockchain, website and mobile app dev.
 - 🌱 I’m learning how to implement AR/VR along with full-stack web dev.
 - 💞️ I’m looking for a frontend summer internship in 2022.
