@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kyra-nank
-- 👀 I’m interested in blockchain, website development and mobile app development.
-- 🌱 I’m currently learning full stack website development.
-- 💞️ I’m looking to collaborate on blockchain marketplaces.
-- 📫 How to reach me kyra_nank on Instagram, or emmaknankivell@gmail.com.
+- 👀 I’m interested in blockchain, website and mobile app dev.
+- 🌱 I’m learning how to implement AR/VR along with full-stack web dev.
+- 💞️ I’m looking for a frontend summer internship in 2022.
+- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/kyranank/) or email me at kyra.nankivell@gmail.com.
 
 <!---
 kyra-nank/kyra-nank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
