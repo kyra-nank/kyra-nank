@@ -1,7 +1,5 @@
 - 👋 Hello, nice to meet you!
-- 👀 I’m interested in blockchain, website and mobile app dev.
-- 🌱 I’m learning how to implement AR/VR along with full-stack web dev.
-- 💞️ I’m looking for a frontend summer internship in 2022.
+- 👀 I’m interested in the intersection of Solana blockchain development and website development.
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/kyranank/) or email me at kyra.nankivell@gmail.com.
 
 <!---
