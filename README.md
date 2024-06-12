@@ -1,5 +1,5 @@
 - 👋 Hello, nice to meet you!
-- 👀 I’m interested in the intersection of Solana blockchain development and website development.
+- 👀 I’m interested in developing innovative sports analytics tools and generative AI.
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/kyranank/) or email me at kyra.nankivell@gmail.com.
 
 <!---
