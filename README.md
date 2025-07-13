@@ -1,5 +1,5 @@
 - 👋 Hello, nice to meet you!
-- 👀 I’m interested in developing innovative sports analytics tools and generative AI.
+- 👀 I’m interested in developing innovative products with Agentic AI.
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/kyranank/) or email me at kyra.nankivell@gmail.com.
 
 <!---
