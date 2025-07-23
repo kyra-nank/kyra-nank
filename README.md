@@ -1,5 +1,5 @@
 - 👋 Hello, nice to meet you!
-- 👀 I’m interested in developing innovative products with Agentic AI and analyzing women's sports
+- 👀 I’m interested in developing innovative products with Agentic AI
 - 🤖 Chat with my [Conversational Career Agent](https://huggingface.co/spaces/kyra-nank/career_conversation)
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/kyranank/) or email at kyra.nankivell@gmail.com
 
